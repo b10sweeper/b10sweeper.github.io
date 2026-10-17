@@ -1,7 +1,7 @@
----
-layout: default
-title: Home
-permalink: /
----
-
-Write about her here.
+   main:
+     - title: "Work"
+       url: /work/
+     - title: "About"
+       url: /about/
+     - title: "Contact"
+       url: /contact/
