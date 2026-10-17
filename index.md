@@ -1,7 +1,6 @@
-   main:
-     - title: "Work"
-       url: /work/
-     - title: "About"
-       url: /about/
-     - title: "Contact"
-       url: /contact/
+---
+layout: splash
+permalink: /
+---
+
+Welcome to the portfolio of Amy Busch.
