@@ -4,4 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-Write about her here.
+Email: [hello@example.com](mailto:hello@example.com)
+
+Instagram: [@placeholder](https://instagram.com/placeholder)
