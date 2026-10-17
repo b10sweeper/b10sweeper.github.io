@@ -1,2 +1,7 @@
-title: Her Name
-description: Portfolio of Her Name
+   title: Amy Busch
+   description: Portfolio of Amy Busch
+   remote_theme: mmistakes/minimal-mistakes
+   minimal_mistakes_skin: default
+   plugins:
+     - jekyll-remote-theme
+     - jekyll-include-cache
