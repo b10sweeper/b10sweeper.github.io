@@ -1,18 +1,25 @@
 ---
-layout: single
+layout: default
 title: About
 permalink: /about/
 ---
+<div class="wrap prose" markdown="1">
 
-![Portrait placeholder](/assets/images/placeholder-portrait.jpg){: .align-right width="250"}
+Placeholder opening sentence that says who she is and what she writes about, in one or two lines. This paragraph is set larger than the rest.
+{: .lede}
 
-Placeholder bio. Two or three sentences about her background, what she makes, and what drives her.
+Placeholder bio paragraph. Where she grew up, how she started writing, and what she is working on now. Replace this with her own words.
 
-## Experience
+A second paragraph about her approach, the subjects she returns to, and who she writes for.
 
-- Role, Company (2020 to present)
-- Role, Company (2017 to 2020)
+## Selected recognition
 
-## Education
+- Award or fellowship, Year
+- Residency or grant, Year
 
-- Degree, School
+## Previously
+
+- Role, Publication (2020 to present)
+- Role, Publication (2017 to 2020)
+
+</div>

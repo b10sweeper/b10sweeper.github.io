@@ -1,9 +1,9 @@
 ---
-layout: single
+layout: default
 title: Contact
 permalink: /contact/
 ---
-
-Email: [hello@example.com](mailto:hello@example.com)
-
-Instagram: [@placeholder](https://instagram.com/placeholder)
+<div class="wrap prose">
+<p class="lede">For commissions, speaking, and everything else, write to:</p>
+<p class="big-mail"><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+</div>

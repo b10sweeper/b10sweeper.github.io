@@ -1,7 +1,6 @@
-   title: Amy Busch
-   description: Portfolio of Amy Busch
-   remote_theme: mmistakes/minimal-mistakes
-   minimal_mistakes_skin: default
-   plugins:
-     - jekyll-remote-theme
-     - jekyll-include-cache
+title: Her Name
+description: Writer and editor. Essays, reporting, and criticism.
+email: hello@example.com
+url: "https://b10sweeper.github.io"
+baseurl: ""
+# When you buy a domain, change url to https://yourdomain.com

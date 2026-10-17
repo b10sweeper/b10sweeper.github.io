@@ -1,11 +1,18 @@
 ---
-layout: splash
-permalink: /
-header:
-  overlay_image: /assets/images/placeholder-hero.jpg
-  overlay_filter: 0.4
-  caption: "Photo placeholder"
-excerpt: "Writer & creative based in Des Moines, Iowa."
+layout: default
+body_class: home
 ---
+<section class="hero">
+<h1 class="hero-name">{{ site.title }}</h1>
+<p class="hero-tag">{{ site.description }}</p>
+</section>
 
-Short intro paragraph about her work.
+<section class="wrap selected">
+<h2 class="section-title">Selected writing</h2>
+<ul class="pieces">
+{% for p in site.data.work limit: 3 %}
+<li><a href="{{ p.url }}"><span class="piece-title">{{ p.title }}</span><span class="piece-meta">{{ p.outlet }}, {{ p.year }}</span></a></li>
+{% endfor %}
+</ul>
+<p class="more"><a href="{{ '/work/' | relative_url }}">See all work</a></p>
+</section>

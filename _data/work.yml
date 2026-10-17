@@ -1,0 +1,22 @@
+# One entry per piece. To add a piece, copy a block and edit it.
+# Newest first. The home page shows the first three.
+- title: "Placeholder essay title goes here"
+  outlet: "Publication Name"
+  year: 2026
+  url: "https://example.com"
+- title: "A second piece, with a longer headline that wraps onto two lines"
+  outlet: "Another Publication"
+  year: 2025
+  url: "https://example.com"
+- title: "Reported feature placeholder"
+  outlet: "Magazine Name"
+  year: 2025
+  url: "https://example.com"
+- title: "Short criticism placeholder"
+  outlet: "Review Name"
+  year: 2024
+  url: "https://example.com"
+- title: "Interview placeholder"
+  outlet: "Publication Name"
+  year: 2023
+  url: "https://example.com"
