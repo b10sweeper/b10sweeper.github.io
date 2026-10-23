@@ -5,12 +5,12 @@ permalink: /about/
 ---
 <div class="wrap prose" markdown="1">
 
-Placeholder opening sentence that says who she is and what she writes about, in one or two lines. This paragraph is set larger than the rest.
+I do serious work without taking myself too seriously.
 {: .lede}
 
-Placeholder bio paragraph. Where she grew up, how she started writing, and what she is working on now. Replace this with her own words.
+A midwesterner through and through, I was born in Indiana, grew up in Iowa, and went to college in Missouri. I played soccer at Northwest Missouri State University while studying Journalism, and will never be over not having just one more year of eligibility.
 
-A second paragraph about her approach, the subjects she returns to, and who she writes for.
+Now I'm a marketing & communications leader with nearly 20 years of experience leading people, brands, culture, and business. I specialize in building human-centered narratives that actually mean something to the people they're intended for, enabling brands to relate, connect, engage... and ultimately, grow. I lead with authenticity, play to win, and am driven to make the world around me a better place.
 
 ## Selected recognition
 
